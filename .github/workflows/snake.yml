@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: makariosfaiz123
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffffff&color_dots=#001a0a,#003d1f,#006d32,#26a641,#39d353
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00f7ff&color_dots=#000000,#002b11,#005522,#00aa44,#39ff88
 
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v3
