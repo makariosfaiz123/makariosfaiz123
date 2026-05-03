@@ -121,7 +121,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/makariosfaiz123/makariosfaiz123/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/makariosfaiz123/makariosfaiz123/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
