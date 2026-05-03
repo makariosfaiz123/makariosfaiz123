@@ -121,44 +121,10 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedDabish/AhmedDabish/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/makariosfaiz123/makariosfaiz123/output/github-contribution-grid-snake.svg" />
 </p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
 </a>
-
-
-
-
-
-
-------------------------------------------------------------------
-
-
-
-
-
-
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=makariosfaiz123&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/makariosfaiz123/makariosfaiz123/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 💡 Quote
-
-> “Great developers are not born, they are built through consistency.”
 
