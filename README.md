@@ -116,12 +116,12 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/makariosfaiz123/makariosfaiz123/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=makariosfaiz123&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" />
 </p>
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/makariosfaiz123/makariosfaiz123/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/makariosfaiz123/makariosfaiz123/output/github-contribution-grid-snake.svg" />
 </p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
