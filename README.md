@@ -101,13 +101,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmedDabish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedDabish&theme=tokyonight&hide_border=true" alt="Ahmed's Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=makariosfaiz123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Makarios GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=makariosfaiz123&theme=tokyonight&hide_border=true" alt="Makarios Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedDabish&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedDabish&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makariosfaiz123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=makariosfaiz123&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
