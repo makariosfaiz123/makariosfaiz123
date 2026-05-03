@@ -1,18 +1,21 @@
-<!-- Header -->
+<!-- ================= HEADER ================= -->
+
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Makarios Faiz Fawzy</span></h1>
-<h3 align="center">🚀 Backend Developer (.NET)</h3>
+<h3 align="center">🚀 Full Stack Developer (.NET | React)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Makarios%20Faiz%20Fawzy;Backend%20Developer%20%7C%20.NET%20Developer&font=Fira%20Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&color2=0072FF&vCenter=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;ASP.NET+Core+%7C+React+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Tech&font=Fira%20Code&center=true&width=750&height=60&duration=3000&pause=1000&color=00C6FF&vCenter=true&size=24" />
 </p>
 
 
-## 💫 About Me 
+## 💫 About Me
 
-- 🧑‍💻 I'm a **Software Engineer** and a **graduate of the Faculty of Computers and Information, Kafr El-Sheikh University**.  
-- ⚙️ I specialize in **Back-end Development** using **ASP.NET Core Web APIs**, following **Clean Architecture principles**.  
-- 🧠 I also have experience in **Artificial Intelligence (AI)** and love applying AI concepts to build **intelligent systems and APIs**.  
-- 🚀 I'm passionate about **learning new technologies**, improving my skills, and creating impactful software solutions.  
+- 🧑‍💻 I'm a **Software Engineer (Full Stack Developer)**  
+- 🎓 Graduate of Faculty of Computers and Information  
+- ⚙️ Experienced in **ASP.NET Core Web APIs & React.js**  
+- 🏗️ I build scalable applications using **Clean Architecture**  
+- 🧠 Passionate about **AI, backend systems, and modern web technologies**  
+- 🚀 Always improving my skills and building real-world projects   
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
@@ -113,7 +116,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=AhmedDabish&theme=onestar&no-bg=true&no-frame=true&row=1&column=7&v=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=makariosfaiz123&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" />
 </p>
 
 ## 🐍 Contribution Snake
@@ -132,81 +135,12 @@
 
 ------------------------------------------------------------------
 
-<!-- ================= HEADER ================= -->
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Makarios Faiz Fawzy</span></h1>
-<h3 align="center">🚀 Full Stack Developer (.NET | React)</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;ASP.NET+Core+%7C+React+Developer;Clean+Architecture+Enthusiast;Always+Learning+New+Tech&font=Fira%20Code&center=true&width=750&height=60&duration=3000&pause=1000&color=00C6FF&vCenter=true&size=24" />
-</p>
 
----
 
-## 💫 About Me
 
-- 🧑‍💻 I'm a **Software Engineer (Full Stack Developer)**  
-- 🎓 Graduate of Faculty of Computers and Information  
-- ⚙️ Experienced in **ASP.NET Core Web APIs & React.js**  
-- 🏗️ I build scalable applications using **Clean Architecture**  
-- 🧠 Passionate about **AI, backend systems, and modern web technologies**  
-- 🚀 Always improving my skills and building real-world projects  
 
----
-
-## 🧠 Languages & Tools
-
-<p align="center">
-
-<!-- Backend -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
-
-<!-- Frontend -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45"/>
-
-<!-- Web -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45"/>
-
-<!-- DB -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45"/>
-
-<!-- Tools -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="45"/>
-
-</p>
-
----
-
-## 🌍 Connect With Me
-
-- 📧 Email: makariosfaiz2121@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/makarios-faiz-157750278/  
-- 💬 WhatsApp: https://wa.me/201208584569  
-- 📲 Telegram: https://t.me/Makariosfaiz  
-- 📘 Facebook: https://www.facebook.com/share/1AaFs2VfNE/?mibextid=wwXIfr  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=makariosfaiz123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=makariosfaiz123&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makariosfaiz123&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=makariosfaiz123&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 
