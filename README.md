@@ -10,10 +10,10 @@
 
 ## 💫 About Me
 
-🧑‍💻 Full Stack .NET Developer specializing in ASP.NET Core & React.js.
-🎓 Computer Science Student at Sohag University.
-⚙️ Experienced in building scalable REST APIs, authentication systems, and responsive web applications.
-🏗️ Passionate about Clean Architecture, performance optimization, and modern frontend experiences.
+🧑‍💻 Full Stack .NET Developer specializing in ASP.NET Core & React.js. <br/>
+🎓 Computer Science Student at Sohag University. <br/>
+⚙️ Experienced in building scalable REST APIs, authentication systems, and responsive web applications. <br/>
+🏗️ Passionate about Clean Architecture, performance optimization, and modern frontend experiences. <br/>
 🚀 Always learning, building, and improving real-world projects.
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
